@@ -1,6 +1,3 @@
-# DAA-Holiday-assignment-165
-Based on the contents of your repository, "DAA-Holiday-assignment-165," here's a comprehensive README file to enhance its clarity and usability:
-
 # DAA Holiday Assignment 165
 
 This repository contains solutions to various algorithmic problems, implemented in C++, as part of the Design and Analysis of Algorithms (DAA) holiday assignment.
